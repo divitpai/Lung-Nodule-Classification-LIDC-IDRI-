@@ -1,0 +1,1 @@
+Developed a complete lung nodule classification pipeline using the LIDC-IDRI dataset, incorporating preprocessing, feature extraction, radiologist annotation integration, and unsupervised clustering to assess nodule malignancy for early cancer detection.
